@@ -2,7 +2,7 @@
 
 React-Tik-Tak-Toe exercise was created for MITxPro full-stack web development program. </br>
 
-<a href="https://foreverphoenix21.github.io/Real-Time-Bus-Tracking/">
+<a href="https://foreverphoenix21.github.io/React-Tik-Tak-Toe/">
   <img src="Tik-Tak-Toe.png" alt="TikTakToePictureLink" width="200" /> </a
 >
 
