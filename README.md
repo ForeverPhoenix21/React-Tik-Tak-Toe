@@ -39,6 +39,6 @@ React-Tik-Tak-Toe exercise was created for MITxPro full-stack web development pr
 
 <p> 
   
-  Reach me on *[Linkedin](https://www.linkedin.com/in/derek-diaz/)* or *[Twitter](https://twitter.com/diazcsu.*
+  Reach me on *[Linkedin](https://www.linkedin.com/in/derek-diaz/)* or *[Twitter](https://twitter.com/diazcsu).*
   
 </p>
